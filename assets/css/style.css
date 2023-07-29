@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700');
+
+.bg-color-name-title {
+    background-color: #8d18c7d3;
+    /*-----------------------colours-------*/
+
+    header {
+        margin: 0;
+    }
+
+    .heading {
+        margin-left: 50px;
+    }
+
+    .logo {
+
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 36px;
+        transition: all .5s ease-in-out;
+        -moz-transition: all .5s ease-in-out;
+        -webkit-transition: all .5s ease-in-out;
+    }
+
+    .name {
+        font-family: "Poppins", Roboto;
+        font-weight: 100;
+        font-size: 46px;
+        margin-top: 50px;
+        color: #0d37f0;
+    }
+
+    /*.title {
+    font-family: "Poppins", Roboto;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #0d37f0;
+}
