@@ -38,48 +38,25 @@
         </nav>
     </header>
     <main>
-        <section>
-            <form>
-                <div class="row">
-                    <div class="col">
-                        <input type="text" class="form-control" placeholder="First name">
-                    </div>
-                    <div class="col">
-                        <input type="text" class="form-control" placeholder="Last name">
-                    </div>
-                    <div class="col">
-                        <input type="text" class="form-control" placeholder="Email">
-                    </div>
-                    <div class="col">
-                        <input type="text" class="form-control" placeholder="Course">
-                    </div>
-                </div>
-                </div>
-
-                <p>Choose your course module:</p>
-
-                <form>
-                    <input type="radio" id="money" name="module" value="The history of money">
-                    <label for="money">The history of money</label><br>
-                    <input type="radio" id="blockchain eco" name="module" value="Blockchain ecosystem">
-                    <label for="blockchain eco">Blockchain ecosystem</label><br>
-                </form>
-        </section>
-
-        <section>
-
-
-        </section>
+    <form>
+        <div class="form-group">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+        </div>
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+        </div>
+        <div class="form-group">
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="5" required></textarea>
+        </div>
+        <button type="submit" class="submit-btn">Submit</button>
+    </form>
+</div>
     </main>
 
     <footer>
-        <div class="col-md-4">
-            <h5>Contact Us</h5>
-            <p>Email: admin@blackrosedigital.com</p>
-            <p>Phone: +44 074444 61815</p>
-        </div>
-        </div>
-        </div>
         <div class="text-center text-white bg-secondary py-2">
             <p>Copyright 2023 Digital Assets made simple. All rights reserved.</p>
         </div>
