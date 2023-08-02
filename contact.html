@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css"
         integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css"
+        type="text/css" />
     <title>Digital Assets Made Simple</title>
 </head>
 
@@ -36,7 +38,32 @@
     </header>
     <main>
         <section>
+            <form>
+                <div class="row">
+                    <div class="col">
+                        <input type="text" class="form-control" placeholder="First name">
+                    </div>
+                    <div class="col">
+                        <input type="text" class="form-control" placeholder="Last name">
+                    </div>
+                    <div class="row-1">
+                        <div class="col">
+                            <input type="text" class="form-control" placeholder="Email">
+                        </div>
+                        <div class="col">
+                            <input type="text" class="form-control" placeholder="Course">
+                        </div>
+                    </div>
+                </div>
 
+                <p>Choose your course module:</p>
+
+                <form>
+                    <input type="radio" id="money" name="module" value="The history of money">
+                    <label for="money">The history of money</label><br>
+                    <input type="radio" id="blockchain eco" name="module" value="Blockchain ecosystem">
+                    <label for="blockchain eco">Blockchain ecosystem</label><br>
+                </form>
         </section>
 
         <section>
@@ -45,19 +72,20 @@
         </section>
     </main>
 
-    <footer class="container-fluid">
-        <div class="row no-gutters">
+    <footer>
+        <div class="row">
             <div class="col-sm-4">
-                <h5 class="uppercase general-sub">about</h5>
+                <h5 class="uppercase general-sub">About</h5>
             </div>
             <div class="col-sm-4">
-                <h5 class="uppercase general-sub">courses</h5>
+                <h5 class="uppercase general-sub">Courses</h5>
             </div>
             <div class="col-sm-4">
-                <h5 class="uppercase general-sub">contact</h5>
+                <h5 class="uppercase general-sub">Contact</h5>
             </div>
         </div>
     </footer>
+
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.contactjs"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>

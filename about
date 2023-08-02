@@ -30,16 +30,16 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" href="index.html">Home</a>
+                            <a class="nav-link" href="#">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html">About</a>
+                            <a class="nav-link" href="#">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="courses.html">Courses</a>
+                            <a class="nav-link" href="#">Courses</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contact.html">Contact</a>
+                            <a class="nav-link" href="#">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -61,8 +61,8 @@
                     <h1>Welcome to Digital Assets made simple</h1>
                     <p> Our aim is to make learning all about the third interation of the internet namely Web3 as simple
                         and intuative as possible.
-                        We have 6 modules that will help you build the foundational knowledge needed for you
-                        to feel confident in navigating your way around the technology.
+                        We have 6 modules that will help you build the foundation of the knowledge needed so that you
+                        can feel more confident in navigating your way around the technology.
                         The world is changing dramatically and it's important that you stay ahead and upskill with
                         emerging technology.
                     </p>
