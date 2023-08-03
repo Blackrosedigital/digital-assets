@@ -12,56 +12,58 @@
         margin-left: 20px;
     }
 
-    .rounded float-left {}
+    .image-card {
+        text-align: center;
+    }
 
-    .img {
-        width: 150px;
-        height: 150px;
+    .image-card img {
+        width: 100%200;
+        height: 100%;
     }
 
     .navbar-brand {
         margin-top: 5px;
     }
 
-    
-
-    .navbar-brand img {
-        height: 60px;
-        width: 260px;
+    .contact-form {
+        max-width: 400px;
+        margin: 0 auto;
     }
 
-    footer {
-        background-color: #525252;
-        color: #fafafa;
-        min-height: 120px;
-        margin: 0;
+    .form-group {
+        margin-bottom: 20px;
     }
 
-    .logo {
-
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        min-height: 36px;
-        max-height: auto;
-        transition: all .5s ease-in-out;
-        -moz-transition: all .5s ease-in-out;
-        -webkit-transition: all .5s ease-in-out;
+    .form-group label {
+        display: block;
+        font-weight: bold;
     }
 
-    .name {
-        font-family: "Poppins", Roboto;
-        font-weight: 100;
-        font-size: 46px;
-        margin-top: 50px;
-        color: #0d37f0;
+    .form-group input,
+    .form-group textarea {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
     }
 
-    /*.title {
-    font-family: "Poppins", Roboto;
-    font-weight: 200;
-    font-size: 28px;
-    margin-top: 20px;
-    margin-bottom: 90px;
-    color: #0d37f0;
-}
+    .form-group textarea {
+        resize: vertical;
+    }
+
+    .submit-btn {
+        display: block;
+        width: 100%;
+        padding: 10px;
+        background-color: #007bff02;
+        color: #169cf5;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    #hero-image {
+        height: 600px;
+        width: 100%;
+        background: url("http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/main-image.png") no-repeat center center;
+    }
