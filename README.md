@@ -58,5 +58,57 @@
 
    - Whimsical was used to create the during the design process.
 
-   
+   - #### Testing
+
+- #### Testing User Stories from User Experience (UX) Section
+
+- #### First Time Visitor Goals
+
+  1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the courses.
+     1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
+  2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+     1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+     2. At the bottom of the first 1st page there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
+
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the repository
+
+   [GitHub]: https://github.com/Blackrosedigital/digital-assets
+
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository] https://github.com/Blackrosedigital/digital-assets
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
+```
+$ git clone https://github.com/Blackrosedigital/digital-assets
+```
+
+1. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/Blackrosedigital/digital-assets
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) 
+
+
+
+
 
