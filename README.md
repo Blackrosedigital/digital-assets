@@ -70,7 +70,11 @@
      1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
      2. At the bottom of the first 1st page there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
 
-### Forking the GitHub Repository
+- #### Basic user acceptance testing     
+
+Functional testing was carried out results here 
+
+- ### Forking the GitHub Repository
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
@@ -108,7 +112,26 @@ $ git clone https://github.com/Blackrosedigital/digital-assets
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) 
 
+- ## Credits
 
+- ### Code
+
+- The light bulb, and other home page images came from this [StackOverflow post](https://stock.adobe.com//)
+- [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+### Content
+
+- All content was written by the developer.
+- Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+
+### Media
+
+- All Images were created by the developer.
+
+### Acknowledgements
+
+- My Mentor for continuous helpful feedback.
+- Tutor support at Code Institute for their support.
 
 
 
