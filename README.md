@@ -22,6 +22,7 @@
   2. As a Frequent User, I want to check to see if there are any new blog posts.
   3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or courses.
 
-#### Wireframes
+- #### Wireframes
 
-    
+![Wirefreame](link/to/wireframe) 
+
