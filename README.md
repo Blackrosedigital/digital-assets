@@ -72,7 +72,7 @@
 
 - #### Basic user acceptance testing     
 
-Functional testing was carried out results here 
+Functional testing was carried out results here https://github.com/Blackrosedigital/digital-assets/blob/23aef4a1d09fc2f6b78b56e22efa8179e260eca0/assets/images/home/Website%20test.jpg
 
 - ### Forking the GitHub Repository
 
@@ -132,6 +132,3 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - My Mentor for continuous helpful feedback.
 - Tutor support at Code Institute for their support.
-
-
-
