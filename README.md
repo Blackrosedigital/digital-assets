@@ -37,3 +37,26 @@
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+- ### Frameworks, Libraries & Programs Used
+
+1. Bootstrap 4.2.1
+
+   - Bootstrap was used to assist with the responsiveness and styling of the website.Google Fonts:
+
+   - Google fonts were used to import the 'Poppins Web' font into the style.css file which is used on all pages throughout the project.jQuery:
+
+   - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+
+   - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
+   - GitHub is used to store the projects code after being pushed from Git.
+
+   - Photoshop was used to create the logo, resizing images and editing photos for the website.
+
+2. :
+
+   - Whimsical was used to create the during the design process.
+
+   
+
