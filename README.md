@@ -24,7 +24,9 @@
 
 - #### Wireframes
 
-![Wirefreame](link/to/wireframe) 
+    Home, Courses and Contact
+
+    https://github.com/Blackrosedigital/digital-assets/blob/0a25b834187f600c548d09118f367b1a71067afc/assets/images/home/DA%20Wireframe.jpg
 
 - #### Features
 
