@@ -77,7 +77,7 @@ Digital Assets Made Simple was created to make the learning and understanding of
 
 ![Mockup](/assets/images/docs/Mockup/Digital-Assets-Made-Simple-Mockup.jpg)
 
-![Brand Sheet & Colour Pallet](/assets/images/docs/Digital%20Assets%20Made%20Simple%20-%20Brand%20sheet.pdf)
+![Brand Sheet & Colour Pallet](/assets/images/docs/Digital-Assets-Made-Simple-Brand-sheet.pdf)
   Used a website called Fontpair to select a font pairing that i thought would work for the site. I chose Montserrat and Hind as they are easily readible and modern
 ![Wireframes](/assets/images/docs/DA%20Wireframe.jpg)
 
@@ -87,7 +87,20 @@ Digital Assets Made Simple was created to make the learning and understanding of
   - ![Poppins](https://fonts.google.com/specimen/Poppins?query=Poppins)
 
 - Images
-  Images sourced from royalty free site Unsplash. Images were then converted using iloveimg for resizing images. and resized to reduce file sizes and in turn loading times.
+  Images sourced from royalty free site Unsplash. Images were then converted using ![iloveimg](https://www.iloveimg.com/) for resizing images. and resized to reduce file sizes and in turn loading times.
 
-![Logo](/assets/images/docs/DA_logo.png)
+![Logo](/assets/images/docs/DA_logo.png) - Was designed by my grapgic designer who also created the brand styling.
 
+## Features
+
+The website is currently 3 pages. A Home page, a Course page, a Contact page. The home page has learn more buttons that lead to the course page. The contact page captures inquiries for more information.
+
+- Header
+  
+- Footer
+
+- Homepage
+
+- Courses
+
+- Contact
