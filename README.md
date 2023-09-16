@@ -90,10 +90,11 @@ Digital Assets Made Simple was created to make the learning and understanding of
   - [Poppins](https://fonts.google.com/specimen/Poppins?query=Poppins)
 
 - Images
-  Images sourced from royalty free site Unsplash. Images were then converted using ![iloveimg](https://www.iloveimg.com/) for resizing images. and resized to reduce file sizes and in turn loading times.
+  Images sourced from royalty free site Unsplash. Images were then converted using [iloveimg](https://www.iloveimg.com/) for resizing images. and resized to reduce file sizes and in turn loading times.
 
-[Logo](/assets/images/docs/DA-logo.png) 
-Logo was designed by my grapgic designer who also created the brand styling.
+- [Logo](/assets/images/docs/DA-logo.png)
+
+The logo was designed by my grapgic designer who also created the brand styling.
 
 ## Features
 
@@ -111,52 +112,38 @@ The website is currently 3 pages. A Home page, a Course page, and a Contact page
 
 ## Technologies
 
-Languages
+### Languages
 
-    --The site was mainly developed using HTML and CSS
-Frameworks, libraries & Programs
-
+The site was mainly developed using HTML and CSSFrameworks, libraries & Programs
 - Bootstrap 5.2
-
-    --Used for Layout and Positioning. Also code used for navbar and modal.
+  - Used for Layout and Positioning. Also code used for navbar.
 - W3Schools
-
-    --Code used for disappearing header/navbar.
+  - Code used for disappearing header/navbar.
 - Git / Github
-
-    --Used for version control, storage and deployment.
-- Gitpod
-
-    --IDE used.
-
+  - Used for version control, storage and deployment.
+- CloudAnywhere
+  - IDE used.
 - GoogleFonts
-
-    --Used for importing fonts into stylesheet.
+  - Used for importing fonts into stylesheet.
 - Google Dev Tools
-
-    --Used for troubleshooting and small style changes.
-- Canva
-
-    --Used to create a color pallette from background image.
+  - Used for troubleshooting and small style changes.
 - Convertio
-
-    --Used for file conversion.
-
+  - Used for file conversion.
 - iloveimg
-
-    --Used for resizing images.
+  - Used for resizing images.
 - Whimsical
-
-    --Used to create wireframes.
+  - Used to create wireframes.
 - Techsini
-
-    --Used to create mock ups.
-- EZgif
-
-    --Used to create gifs for readme.
+  - Used to create mock ups.
 - WAVE
-
-    --Used to check accessibility of site.
+  - Used to check accessibility of site.
 - Favicon.io
+  - Used to create a favicon
 
-    [Used to create a favicon]
+## Testing
+
+
+## Deployments
+
+
+## Credits
