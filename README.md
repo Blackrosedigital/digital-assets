@@ -97,7 +97,7 @@ Digital Assets Made Simple was created to make the learning and understanding of
   sourced from royalty free site Unsplash. Images were then converted using [iloveimg](https://www.iloveimg.com/) for resizing images. and resized to reduce file sizes and in turn loading times.
 
 - The Logo was designed by my grapgic designer who also created the brand styling.
-  - ![Logo](/assets/images/docs/DA-logo.png)
+    ![Logo](/assets/images/docs/DA-logo.png)
 
 ## Features
 
@@ -142,8 +142,6 @@ The site was mainly developed using HTML and CSSFrameworks, libraries & Programs
   - Used to create wireframes.
 - Techsini
   - Used to create mock ups.
-- WAVE
-  - Used to check accessibility of site.
 - Favicon.io
   - Used to create a favicon
 
