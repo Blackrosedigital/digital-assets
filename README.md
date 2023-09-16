@@ -55,27 +55,28 @@ Digital Assets Made Simple was created to make the learning and understanding of
 
 #### User stories
 
-  1. First-Time Visitor Goals
+- First-Time Visitor Goals
 
-- As a First Time Visitor, I want to easily understand the main purpose of the site and  learn more about the courses.
-- As a First Time Visitor, I want to be able to easily navigate through the site to find content.
-- As a First Time Visitor, I want to look for summaries on each course module and what I will be learning.
+  - As a First Time Visitor, I want to easily understand the main purpose of the site and  learn more about the courses.
+  - As a First Time Visitor, I want to be able to easily navigate through the site to find content.
+  - As a First Time Visitor, I want to look for summaries on each course module and what I will be learning.
 
-  2. Returning Visitor Goals
+- Returning Visitor Goals
 
-- As a Returning Visitor, I want to find information about technical and non-technical modules.
-- As a Returning Visitor, I want to find the best way to get in contact with the organization with any questions I may have.
-- As a Returning Visitor, I want to be able to leave my details to be contacted by the company.
+  - As a Returning Visitor, I want to find information about technical and non-technical modules.
+  - As a Returning Visitor, I want to find the best way to get in contact with the organization with any questions I may have.
+  - As a Returning Visitor, I want to be able to leave my details to be contacted by the company.
 
-   3. Frequent User Goals
+   1. Frequent User Goals
 
-- As a Frequent User, I want to see if I can get certified on my learning.
-- As a Frequent User, I want to check to see if there are any new blog posts.
-- As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or courses.
+- Frequent User Goals
+  - As a Frequent User, I want to see if I can get certified on my learning.
+  - As a Frequent User, I want to check to see if there are any new blog posts.
+  - As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or courses.
 
 ## Design
 
-- [Mockup](/assets/images/docs/Mockup/Digital-Assets-Made-Simple-Mockup.jpg)
+  ![Mockup](/assets/images/docs/Mockup/Digital-Assets-Made-Simple-Mockup.jpg)
 
 - [Brand Sheet & Colour Pallet](/assets/images/docs/Digital-Assets-Made-Simple-Brand-sheet.pdf)
   
@@ -93,11 +94,10 @@ Digital Assets Made Simple was created to make the learning and understanding of
   - [Poppins](https://fonts.google.com/specimen/Poppins?query=Poppins)
 
 - Images
-  Images sourced from royalty free site Unsplash. Images were then converted using [iloveimg](https://www.iloveimg.com/) for resizing images. and resized to reduce file sizes and in turn loading times.
+  sourced from royalty free site Unsplash. Images were then converted using [iloveimg](https://www.iloveimg.com/) for resizing images. and resized to reduce file sizes and in turn loading times.
 
-- ![Logo](/assets/images/docs/DA-logo.png)
-
-The logo was designed by my grapgic designer who also created the brand styling.
+- The Logo was designed by my grapgic designer who also created the brand styling.
+  - ![Logo](/assets/images/docs/DA-logo.png)
 
 ## Features
 
@@ -112,6 +112,10 @@ The website is currently 3 pages. A Home page, a Course page, and a Contact page
 - Courses
 
 - Contact
+
+## Future Implementations
+
+Further development to the site could be using Javascript and Python for form submissions, direct the user to another page (e.g. response page), send an email, interactive features, and an ondemand learning media functionality.
 
 ## Technologies
 
