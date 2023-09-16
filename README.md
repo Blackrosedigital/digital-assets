@@ -96,7 +96,7 @@ Digital Assets Made Simple was created to make the learning and understanding of
 - Images
   sourced from royalty free site Unsplash. Images were then converted using [iloveimg](https://www.iloveimg.com/) for resizing images. and resized to reduce file sizes and in turn loading times.
 
-- The Logo was designed by my grapgic designer who also created the brand styling.
+- The Logo was designed by my graphic designer who also created the brand styling.
     ![Logo](/assets/images/docs/DA-logo.png)
 
 ## Features
@@ -104,28 +104,31 @@ Digital Assets Made Simple was created to make the learning and understanding of
 The website is currently 3 pages. A Home page, a Course page, and a Contact page. The home page has learn more buttons that lead to the course page. The contact page captures inquiries for more information.
 
 - Header
+  - The header was created to allow to user to easily navigate throughout the site. It is responsive to all screen sizes.
   
 - Footer
+  - Footer conatains the name of the site/business and Links are to homepage, courses and contact pages. It is responsive to all screen sizes.
 
 - Homepage
+  - Easy explaination and simple design for ease of navigation.
 
 - Courses
+  - Images to and text to explain course content and objectives.
 
 - Contact
+  - Contact form for further information and questions.
 
 ## Future Implementations
 
-Further development to the site could be using Javascript and Python for form submissions, direct the user to another page (e.g. response page), send an email, interactive features, and an ondemand learning media functionality.
+Further development to the site could be using Javascript and Python for form submissions, direct the user to another page (e.g. response page), send an email, interactive features, and an on-demand learning media functionality.
 
 ## Technologies
 
-### Languages
+- Languages
 
 The site was mainly developed using HTML and CSSFrameworks, libraries & Programs
 - Bootstrap 5.2
   - Used for Layout and Positioning. Also code used for navbar.
-- W3Schools
-  - Code used for disappearing header/navbar.
 - Git / Github
   - Used for version control, storage and deployment.
 - CloudAnywhere
@@ -143,12 +146,48 @@ The site was mainly developed using HTML and CSSFrameworks, libraries & Programs
 - Techsini
   - Used to create mock ups.
 - Favicon.io
-  - Used to create a favicon
+  - Used to create a favicon.
 
 ## Testing
 
+- HTML Validation
+  - HTML Validation The [W3C Markup Validation Service](https://validator.w3.org/) was used to validate the HTML code. Passed with 0 errors.
+
+- CSS Validation
+  - CSS Validation The [W3C Markup Validation Service](https://validator.w3.org/) was used to validate the CSS code.
 
 ## Deployments
+The project was deployed to GitHub Pages using the following steps...
 
+Log in to GitHub and locate the GitHub Repository
+At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+Scroll down the Settings page until you locate the "Pages" Section.
+Under "Source", click the dropdown called "None" and select "Main Branch".
+The page will automatically refresh.
+Once the deployment process completed the published site's link will appear after the main title.
+
+## Forking the GitHub Repository
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+Log in to GitHub and locate the GitHub Repository
+At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+You should now have a copy of the original repository in your GitHub account.
+
+## Making a Local Clone
+
+Log in to GitHub and locate the GitHub Repository
+Under the repository name, click "Clone or download".
+To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+Open Git Bash
+Change the current working directory to the location where you want the cloned directory to be made.
+Type git clone, and then paste the URL you copied in Step 3.
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+Press Enter. Your local clone will be created.
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
 
 ## Credits
