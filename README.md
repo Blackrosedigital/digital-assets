@@ -78,21 +78,24 @@ Digital Assets Made Simple was created to make the learning and understanding of
 - [Mockup](/assets/images/docs/Mockup/Digital-Assets-Made-Simple-Mockup.jpg)
 
 - [Brand Sheet & Colour Pallet](/assets/images/docs/Digital-Assets-Made-Simple-Brand-sheet.pdf)
+  
+  ![Brand 1](/assets/images/docs/Branding-1.jpg)
+  ![Brand 2](/assets/images/docs/Branding-2.jpg)
 
   Used a website called Fontpair to select a font pairing that i thought would work for the site. I chose Montserrat and Hind as they are easily readible and modern.
   
 - Wireframe  
-- [Wireframes](/assets/images/docs/DA-Wireframe.jpg)
+  ![Wireframes](/assets/images/docs/DA-Wireframe.jpg)
 
 - Typography
-  Used a website called Fontpair to select a font pairing that i thought would work for the site. I chose Montserrat and Poppins as they are easily readible and modern.
+  Used a website called [Fontpair](https://www.fontpair.co/) to select a font pairing that i thought would work for the site. I chose Montserrat and Poppins as they are easily readible and modern.
   - [Monserrat](https://fonts.google.com/specimen/Montserrat?query=montserrat)
   - [Poppins](https://fonts.google.com/specimen/Poppins?query=Poppins)
 
 - Images
   Images sourced from royalty free site Unsplash. Images were then converted using [iloveimg](https://www.iloveimg.com/) for resizing images. and resized to reduce file sizes and in turn loading times.
 
-- [Logo](/assets/images/docs/DA-logo.png)
+- ![Logo](/assets/images/docs/DA-logo.png)
 
 The logo was designed by my grapgic designer who also created the brand styling.
 
