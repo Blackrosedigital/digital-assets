@@ -122,11 +122,11 @@ Further development to the site could be using Javascript and Python for form su
 
 ## Technologies
 
-# Languages
+### Languages
 
 The site was mainly developed using HTML and CSS
 
-# Frameworks, libraries & Programs
+### Frameworks, libraries & Programs
 - Bootstrap 4.2
   - Used for Layout and Positioning. Also code used for navbar.
 - Git / Github
@@ -167,7 +167,7 @@ The site was mainly developed using HTML and CSS
 
 ## Deployments
 
-# Deployment
+### Deployment
 The project was deployed to GitHub Pages using the following steps...
 
 Log in to GitHub and locate the GitHub Repository
@@ -177,14 +177,14 @@ Under "Source", click the dropdown called "None" and select "Main Branch".
 The page will automatically refresh.
 Once the deployment process completed the published site's link will appear after the main title.
 
-# Forking the GitHub Repository
+### Forking the GitHub Repository
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
 Log in to GitHub and locate the GitHub Repository
 At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 You should now have a copy of the original repository in your GitHub account.
 
-# Making a Local Clone
+### Making a Local Clone
 
 Log in to GitHub and locate the GitHub Repository
 Under the repository name, click "Clone or download".
@@ -203,12 +203,12 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ## Credits
 
-# Code
+### Code
 The light bulb, and other home page images came from this StackOverflow post
 Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
-# Content
+### Content
 All content was written by the developer.
 
-# Media
+### Media
 All Images were created by the developer.
