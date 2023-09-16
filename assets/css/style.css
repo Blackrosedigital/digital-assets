@@ -1,7 +1,7 @@
     @import url('https://fonts.googleapis.com/css?family=Poppin:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
     body {
-        font-family: Poppin, sans-serif;
+        font-family: Poppin, Monserrat;
         background-color: #f0f0f0;
         color: #333;
     }
@@ -10,10 +10,11 @@
         color: #007bff;
     }
 
-    p {
-        line-height: 1.6;
-    }
+    P {
+        margin-right: 20px;
+        padding: 20%;
 
+    }
     header {
         margin: 0;
     }

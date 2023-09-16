@@ -124,9 +124,11 @@ Further development to the site could be using Javascript and Python for form su
 
 ## Technologies
 
-- Languages
+# Languages
 
-The site was mainly developed using HTML and CSSFrameworks, libraries & Programs
+The site was mainly developed using HTML and CSS
+
+# Frameworks, libraries & Programs
 - Bootstrap 5.2
   - Used for Layout and Positioning. Also code used for navbar.
 - Git / Github
@@ -155,6 +157,15 @@ The site was mainly developed using HTML and CSSFrameworks, libraries & Programs
 
 - CSS Validation
   - CSS Validation The [W3C Markup Validation Service](https://validator.w3.org/) was used to validate the CSS code.
+  
+- Navigating the site for easy access to the pages.
+
+| Feature      | Action                 | Expected Result                                          | Actual Result     |
+| ------------ | ---------------------- | -------------------------------------------------------- | ----------------- |
+| Contact Page | Fill in Form           | Congratulations message after pressing the submit button | Works as expected |
+| Home Page    | Click links in Footer  | To be redirected to Courses page                         | Works as expected |
+| Home Page    | Click learn more       | To be redirected to Courses page                         | Works as expected |
+| Navbar       | Click on nav bar links | Directed to the right page                               | Works as expected |
 
 ## Deployments
 The project was deployed to GitHub Pages using the following steps...
@@ -191,3 +202,4 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > Unpacking objects: 100% (10/10), done.
 
 ## Credits
+
