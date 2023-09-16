@@ -75,25 +75,29 @@ Digital Assets Made Simple was created to make the learning and understanding of
 
 ## Design
 
-![Mockup](/assets/images/docs/Mockup/Digital-Assets-Made-Simple-Mockup.jpg)
+- [Mockup](/assets/images/docs/Mockup/Digital-Assets-Made-Simple-Mockup.jpg)
 
-![Brand Sheet & Colour Pallet](/assets/images/docs/Digital-Assets-Made-Simple-Brand-sheet.pdf)
-  Used a website called Fontpair to select a font pairing that i thought would work for the site. I chose Montserrat and Hind as they are easily readible and modern
-![Wireframes](/assets/images/docs/DA%20Wireframe.jpg)
+- [Brand Sheet & Colour Pallet](/assets/images/docs/Digital-Assets-Made-Simple-Brand-sheet.pdf)
+
+  Used a website called Fontpair to select a font pairing that i thought would work for the site. I chose Montserrat and Hind as they are easily readible and modern.
+  
+- Wireframe  
+- [Wireframes](/assets/images/docs/DA-Wireframe.jpg)
 
 - Typography
   Used a website called Fontpair to select a font pairing that i thought would work for the site. I chose Montserrat and Poppins as they are easily readible and modern.
-  - ![Monserrat](https://fonts.google.com/specimen/Montserrat?query=montserrat)
-  - ![Poppins](https://fonts.google.com/specimen/Poppins?query=Poppins)
+  - [Monserrat](https://fonts.google.com/specimen/Montserrat?query=montserrat)
+  - [Poppins](https://fonts.google.com/specimen/Poppins?query=Poppins)
 
 - Images
   Images sourced from royalty free site Unsplash. Images were then converted using ![iloveimg](https://www.iloveimg.com/) for resizing images. and resized to reduce file sizes and in turn loading times.
 
-![Logo](/assets/images/docs/DA_logo.png) - Was designed by my grapgic designer who also created the brand styling.
+[Logo](/assets/images/docs/DA-logo.png) 
+Logo was designed by my grapgic designer who also created the brand styling.
 
 ## Features
 
-The website is currently 3 pages. A Home page, a Course page, a Contact page. The home page has learn more buttons that lead to the course page. The contact page captures inquiries for more information.
+The website is currently 3 pages. A Home page, a Course page, and a Contact page. The home page has learn more buttons that lead to the course page. The contact page captures inquiries for more information.
 
 - Header
   
@@ -104,3 +108,55 @@ The website is currently 3 pages. A Home page, a Course page, a Contact page. Th
 - Courses
 
 - Contact
+
+## Technologies
+
+Languages
+
+    --The site was mainly developed using HTML and CSS
+Frameworks, libraries & Programs
+
+- Bootstrap 5.2
+
+    --Used for Layout and Positioning. Also code used for navbar and modal.
+- W3Schools
+
+    --Code used for disappearing header/navbar.
+- Git / Github
+
+    --Used for version control, storage and deployment.
+- Gitpod
+
+    --IDE used.
+
+- GoogleFonts
+
+    --Used for importing fonts into stylesheet.
+- Google Dev Tools
+
+    --Used for troubleshooting and small style changes.
+- Canva
+
+    --Used to create a color pallette from background image.
+- Convertio
+
+    --Used for file conversion.
+
+- iloveimg
+
+    --Used for resizing images.
+- Whimsical
+
+    --Used to create wireframes.
+- Techsini
+
+    --Used to create mock ups.
+- EZgif
+
+    --Used to create gifs for readme.
+- WAVE
+
+    --Used to check accessibility of site.
+- Favicon.io
+
+    [Used to create a favicon]
