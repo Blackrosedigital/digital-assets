@@ -8,46 +8,43 @@ Digital Assets Made Simple was created to make the learning and understanding of
 
 ### User Experience UX
 
-    User stories
-    First Time Visitor Goals
-    Returning Visitor Goals
-    Frequent User Goals
+    - User stories
+    - First Time Visitor Goals
+    - Returning Visitor Goals
+    - Frequent User Goals
 
 ### Design
 
-    Wireframes
-    Colour Palette
-    Typography
-    Images
-    Icons
+    - Branding
+    - Wireframes
+    - Typography
+    - Images
+    - Icons
 
 ### Features
 
-    Header
-    Footer
-    Modal
-    About me & Testimonials
-    Gallery
-    Contact
-    Response
-    Dissapearing Header
-    Future Implementation
+    - Header
+    - Footer
+    - Home Page
+    - Courses
+    - Contact
+    - Future Implementation
 
 ### Technologies
 
-    Languages
-    Frameworks, Libaries and Programs
+    - Languages
+    - Frameworks, Libaries and Programs
 
 ### Testing
 
-    HTML Validation
-    CSS Validation
-    Accessibility
-    Performance
-    User Stories
-    Responsiveness
+    - HTML Validation
+    - CSS Validation
+    - User Stories
 
 ### Deployment
+
+    - Forking the GitHub Repository
+    - Making a Local Clone
 
 ### Credits
 
@@ -75,7 +72,8 @@ Digital Assets Made Simple was created to make the learning and understanding of
   - As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or courses.
 
 ## Design
-
+- Application deployment course
+  [link to deployed site here](https://blackrosedigital.github.io/digital-assets/)
   ![Mockup](/assets/images/docs/Mockup/Digital-Assets-Made-Simple-Mockup.jpg)
 
 - [Brand Sheet & Colour Pallet](/assets/images/docs/Digital-Assets-Made-Simple-Brand-sheet.pdf)
@@ -129,7 +127,7 @@ Further development to the site could be using Javascript and Python for form su
 The site was mainly developed using HTML and CSS
 
 # Frameworks, libraries & Programs
-- Bootstrap 5.2
+- Bootstrap 4.2
   - Used for Layout and Positioning. Also code used for navbar.
 - Git / Github
   - Used for version control, storage and deployment.
@@ -168,6 +166,8 @@ The site was mainly developed using HTML and CSS
 | Navbar       | Click on nav bar links | Directed to the right page                               | Works as expected |
 
 ## Deployments
+
+# Deployment
 The project was deployed to GitHub Pages using the following steps...
 
 Log in to GitHub and locate the GitHub Repository
@@ -177,14 +177,14 @@ Under "Source", click the dropdown called "None" and select "Main Branch".
 The page will automatically refresh.
 Once the deployment process completed the published site's link will appear after the main title.
 
-## Forking the GitHub Repository
+# Forking the GitHub Repository
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
 Log in to GitHub and locate the GitHub Repository
 At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 You should now have a copy of the original repository in your GitHub account.
 
-## Making a Local Clone
+# Making a Local Clone
 
 Log in to GitHub and locate the GitHub Repository
 Under the repository name, click "Clone or download".
@@ -203,3 +203,12 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 ## Credits
 
+# Code
+The light bulb, and other home page images came from this StackOverflow post
+Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+# Content
+All content was written by the developer.
+
+# Media
+All Images were created by the developer.
